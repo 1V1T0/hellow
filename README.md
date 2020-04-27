@@ -1,2 +1,2 @@
 # hellow
-echo
+echo > echo
